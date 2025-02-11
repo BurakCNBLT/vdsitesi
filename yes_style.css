@@ -22,3 +22,48 @@ body {
     max-width: 500px; 
     height: auto; 
 }
+
+.buttons {
+    margin-top: 20px;
+
+}
+
+
+.cont-button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #4998f3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  
+}
+
+.ready-button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: #a5dfa7;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+  
+.notready-button {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    background-color: #e28680;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.note_text {
+    font-size: 1em;
+    color: #ffffff;
+}
